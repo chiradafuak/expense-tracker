@@ -28,8 +28,8 @@ function App() {
       <header className="header">
         <h1>Expense Tracker</h1>
         <p>
-          Start tracking your money. <br />
-          Record and view your expenses easily.
+          Simplicity in tracking your money <br />
+          Record and view your expenses and purchases easily.
         </p>
       </header>
 
